@@ -8,4 +8,4 @@
 
 # Run Test
  
- * run command ruby LambdaTest
+ * run command ruby LambdaTest.rb
